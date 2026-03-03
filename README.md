@@ -1,6 +1,6 @@
 # 🐍 Exercícios de Condicionais em Python
 
-Este repositório contém um conjunto de exercícios introdutórios de **Python**, focados no uso de estruturas condicionais (`if`, `elif`, `else`). Estes exercícios fazem parte da aprendizagem no curso **Técnico de Gestão e Programação de Sistemas Informáticos (TGPSI)**.
+Este repositório contém um conjunto de exercícios introdutórios de **Python**, focados no uso de estruturas condicionais (`if`, `elif`, `else`). Estes exercícios fazem parte da aprendizagem no curso **Técnico de Gestão e Programação de Sistemas Informáticos (GPSI)**.
 
 O objetivo é treinar a lógica de programação, a análise de condições e a criação de pequenos programas interativos.
 
